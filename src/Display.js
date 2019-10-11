@@ -27,7 +27,6 @@ export default class Display extends React.Component {
     const displayScreenStyle = {
       width: '100%',
       height: '100%',
-      background: 'black',
       margin: '10px',
       gridColumn: '1 / span 4',
       fontFamily: '"Helvetica Neue", Helvetica, Arial, sans-serif',
